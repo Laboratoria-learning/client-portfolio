@@ -8,17 +8,19 @@
 
 Tienes un cliente nuevo! Nos acaba de contactar porque necesita una página web
 para el lunes al final del día. El cliente ha estado trabajando con un diseñador
-gráfico, quien le ha creado un boceto/mockup, con el que están contentos, y que
-ya han aprobado. Éste es el diseño propuesto por el diseñador:
+gráfico, quien ha creado un mockup de cómo debería verse la página.
+
+El cliente está contento con el diseño y ya lo han aprobado. Pero, ...siempre
+hay peros..., nos dicen que, a la hora de hacer la plantilla, se les olvidó
+tener en cuenta una sección de _recetas_. Así que tenemos que hacer una
+propuesta de cómo podemos incluir esta sección en el layout. Sumado a esto, el
+cliente tiene una lista de cambios que le gustaría ir incluyendo poco a poco (el
+backlog del proyecto), y quiere saber si podrías incluir alguno de estos cambios
+para el release del lunes.
+
+El diseño propuesto:
 
 ![Freelancer Website](docs/fullpage.png)
-
-Ahora te toca implementar la página web usando `HTML` y `CSS`. Pero no solo
-eso, sino que nos dicen que, a la hora de hacer la plantilla, se les olvidó
-tener en cuenta una sección de _recetas_, así que tenemos que hacer una
-propuesta de cómo podemos incluir esta sección en el layout. Sumado a esto,
-el cliente tiene una lista de cambios/features que le gustaría ir incluyendo
-poco a poco (el backlog del proyecto).
 
 ## Objetivos del reto
 
@@ -68,7 +70,7 @@ estructura de carpetas y archivos donde colocarás tu código.
    es `git clone` y su estructura normalmente se ve así:
 
    ```bash
-   git clone https://github.com/<nombre-de-usuario>/freelancer.git
+   git clone https://github.com/<nombre-de-usuario>/client-portfolio.git
    ```
 
 ## Consideraciones
@@ -82,8 +84,8 @@ estructura de carpetas y archivos donde colocarás tu código.
 * Dentro de la carpeta `assets` se encuentra la carpeta `images` donde
   encontrarás todas las imágenes necesarias para completar tu proyecto.
 
-* Deberás **actualizar el archivo `README.md`** explicando el contenido de tu
-  repositorio.
+* Deberás **actualizar el archivo `README.md`** explicando tu propuesta y plan
+  de acción.
 
 * Esta web utiliza 2 tipografías: `Montserrat` y `Lato`.
 
@@ -93,13 +95,17 @@ estructura de carpetas y archivos donde colocarás tu código.
 
 * Los íconos de redes sociales puedes obtenerlos de [Font Awesome](http://fontawesome.io/).
 
-* Para este reto, encontrarás ciertas cosas que probablemente aun no has visto
-  en clase (formularios). No te preocupes, estamos seguros que lo afrontarás con
-  éxito, de igual forma aquí unos tips:
-
-  - Para el formulario, revisa las etiquetas como `form`, `input`, `button`.
-
 * El subrayado que incluye la estrella en las diversas secciones del sitio, en
   la web original se hace con un ícono y pseudoelementos (`:after`, `:before`),
   es un reto entretenido, sin embargo, no trates de enfocarte en esa parte desde
   un inicio ya que no es el objetivo principal del reto :)
+
+* Para este reto, encontrarás ciertas cosas que probablemente aun no has visto
+  en clase. No te preocupes, estamos seguros que lo afrontarás con éxito.
+  Recomendamos seguir los siguientes pasos cuando te sientas atracada:
+
+  1. Busca en Google
+  2. Busca en la documentación del lenguage, herramienta, librería, ...
+  3. Pregunta a tus compañeras
+  4. Pregunta en el canal de slack de la clase
+  5. Pregunta a tus TAs y/o instructorxs
