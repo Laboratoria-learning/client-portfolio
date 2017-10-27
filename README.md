@@ -123,9 +123,9 @@ estructura de carpetas y archivos donde colocarás tu código.
 * Añadir tweets recientes
 
 
-##Plan de acción
+## Plan de acción
 
-###Para implementar la sección de recetas
+### Para implementar la sección de recetas
 
   * En la sección de **PORTFOLIO** tenemos una imagen **cake** que nos puede
     servir para darle un enlace a **RECETAS**.
@@ -147,7 +147,7 @@ estructura de carpetas y archivos donde colocarás tu código.
   * Sacar dirección del footer.
 
 
-##Tiempos estimados
+## Tiempos estimados
 
 * Hacer estructura de HTML: **1/30h-2h**
 
