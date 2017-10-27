@@ -41,7 +41,7 @@ El reto consiste en:
 ### Día 1
 
 1. **Kick-off** (15min)
-2. **Sketching**: crear propuesta de cómo añadir sección de recetas (20min)
+2. **Planning**: crear propuesta de cómo añadir sección de recetas (20min)
 3. **Pitching**: Sustentar tu propuesta y recolectar feedback (20min)
 4. Crear **plan de acción** opcionalmente incluyendo tareas del backlog si
    consideras que te puede alcanzar el tiempo.
@@ -54,7 +54,6 @@ El reto consiste en:
 1. **Daily** (30min)
 2. **Implementación** (3h)
 3. **Despliegue** en GitHub Pages
-4. **Pull request**
 5. **Demos** (1h)
 
 ## Flujo de trabajo
@@ -109,3 +108,13 @@ estructura de carpetas y archivos donde colocarás tu código.
   3. Pregunta a tus compañeras
   4. Pregunta en el canal de slack de la clase
   5. Pregunta a tus TAs y/o instructorxs
+
+## Backlog
+
+* Cambiar fuente (tipografía)
+* Añadir formulario de contacto
+* Sacar dirección del footer y mover a una nueva sección con mapa embebido de
+  Google Maps
+* Embeber un video
+* Añadir favicons
+* Añadir tweets recientes
