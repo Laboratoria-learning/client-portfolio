@@ -13,10 +13,12 @@ gráfico, quien ha creado un mockup de cómo debería verse la página.
 El cliente está contento con el diseño y ya lo han aprobado. Pero, ...siempre
 hay peros..., nos dicen que, a la hora de hacer la plantilla, se les olvidó
 tener en cuenta una sección de _recetas_. Así que tenemos que hacer una
-propuesta de cómo podemos incluir esta sección en el layout. Sumado a esto, el
-cliente tiene una lista de cambios que le gustaría ir incluyendo poco a poco (el
-backlog del proyecto), y quiere saber si podrías incluir alguno de estos cambios
-para el release del lunes.
+propuesta de cómo podemos incluir esta sección en el layout. En la carpeta
+`recetas` encontrarás 5 archivos, pero nos han pedido que elijamos solo 4.
+
+Sumado a esto, el cliente tiene una lista de cambios que le gustaría ir
+incluyendo poco a poco (el backlog del proyecto), y quiere saber si podrías
+incluir alguno de estos cambios para el release del lunes.
 
 El diseño propuesto:
 
