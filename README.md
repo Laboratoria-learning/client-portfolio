@@ -121,3 +121,47 @@ estructura de carpetas y archivos donde colocarás tu código.
 * Embeber un video
 * Añadir favicons
 * Añadir tweets recientes
+
+
+##Plan de acción
+
+###Para implementar la sección de recetas
+
+  * En la sección de **PORTFOLIO** tenemos una imagen **cake** que nos puede
+    servir para darle un enlace a **RECETAS**.
+
+  * En el enlace **RECETAS** se encontrará una ventana con los nombres de las
+    recetas.
+
+  * Al hacer **click** en uno de los nombres, te llevará a una nueva ventana donde
+    encontrarás los pasos para preparar el plato más una imagen de este.
+
+### Para agregar backlog
+
+  Escogí las siguientes:
+
+  * Cambiar de fuente.
+
+  * Formulario de contacto.
+
+  * Sacar dirección del footer.
+
+
+##Tiempos estimados
+
+* Hacer estructura de HTML: **1/30h-2h**
+
+* Añadir formulario: **30min**
+
+* Hacer CSS: **9h-12h**
+
+  El tiempo para hacer esta parte es así porque varía mucho según lo que quieras hacer.
+  Suele pasar que al añadir algo, otra parte se mueve. Entonces, hay que buscar la solución
+  y encontrarla, en algunos casos, puede llevarte a modificar tu estructura HTML y/o tomarte
+  más tiempo de lo planeado.
+
+* Enlaces de Recetas: **3h**
+
+* Sacar dirección del footer: **30min-1h**
+
+* Cambiar de fuente: **15min**
