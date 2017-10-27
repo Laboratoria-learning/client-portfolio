@@ -1,4 +1,4 @@
-# Freelancer
+# Portafolio de cliente
 
 * **Track:** _Common Core_
 * **Curso:** _Creando tu primer sitio web interactivo_
@@ -6,32 +6,54 @@
 
 ***
 
-Tenemos un cliente nuevo! Nos acaba de contactar porque necesita una página web
+Tienes un cliente nuevo! Nos acaba de contactar porque necesita una página web
 para el lunes al final del día. El cliente ha estado trabajando con un diseñador
 gráfico, quien le ha creado un boceto/mockup, con el que están contentos, y que
 ya han aprobado. Éste es el diseño propuesto por el diseñador:
 
 ![Freelancer Website](docs/fullpage.png)
 
-Ahora nos toca implementar la página web usando `HTML` y `CSS`. Pero no solo
-eso, sino que nos dicen que a la hora de hacer la planilla se les olvidó tener
-en cuenta una sección de _recetas_, así que tenemos que hacer una propuesta de
-cómo podemos incluir esta sección en el layout. Sumado a esto, como todo
-cliente, nuestro cliente tiene una lista de cambios/features que le gustaría ir
-incluyendo poco a poco (el backlog del proyecto).
+Ahora te toca implementar la página web usando `HTML` y `CSS`. Pero no solo
+eso, sino que nos dicen que, a la hora de hacer la plantilla, se les olvidó
+tener en cuenta una sección de _recetas_, así que tenemos que hacer una
+propuesta de cómo podemos incluir esta sección en el layout. Sumado a esto,
+el cliente tiene una lista de cambios/features que le gustaría ir incluyendo
+poco a poco (el backlog del proyecto).
 
 ## Objetivos del reto
 
 El reto consiste en:
 
-* Proponer cómo añadir la nueva sección de recetas, sustentar tu propuesta y
-  documentarla en un `README.md`
+* Crear propuesta de cómo añadir la nueva sección de recetas
+* Sustentar tu propuesta y recolectar feedback
 * Elegir tareas del backlog que creas que puedas completar durante el reto
 * Crear plan de acción
-* Implementar la página usando HTML y CSS
+* Documentar propuesta y plan de acción en el `README.md`
+* Implementar la página usando `HTML` y `CSS`
 * Desplegar la página en GitHub pages
 * Compartir tu experiencia de aprendizaje con el resto de la clase en una demo
   al final
+
+## Agenda
+
+### Día 1
+
+1. **Kick-off** (15min)
+2. **Sketching**: crear propuesta de cómo añadir sección de recetas (20min)
+3. **Pitching**: Sustentar tu propuesta y recolectar feedback (20min)
+4. Crear **plan de acción** opcionalmente incluyendo tareas del backlog si
+   consideras que te puede alcanzar el tiempo.
+5. Iniciar **implementación**
+6. Al finalizar la sesión debes haber hecho `commit` y `push` de tu `README.md`
+   así como de tu código fuente en proceso.
+
+### Día 2
+
+1. **Daily** (30min)
+2. **Implementación** (3h)
+3. **Despliegue** en GitHub Pages
+4. **Pull request**
+5. **Demos** (1h)
 
 ## Flujo de trabajo
 
