@@ -1,5 +1,7 @@
 # Chupe de camarones
 
+http://comidasperuanas.net/wp-content/uploads/2016/03/Chupe-de-Camarones-730x430.jpg
+
 El Chupe de Camarones es un plato típico de la costa del Perú. Por fortuna los
 peruanos tenemos una costa prodigiosa y generosa que nos brinda los mejores
 frutos del mar.

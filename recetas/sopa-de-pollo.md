@@ -1,5 +1,7 @@
 # Sopa de pollo
 
+http://comidasperuanas.net/wp-content/uploads/2017/01/Sopa-de-Pollo-Peruana.jpg
+
 Si te faltan algunas verduritas que mencionamos, puedes reemplazarlas por otras
 o agregar algunas a tu gusto. Como alverjitas, choclo, habas, etc.
 

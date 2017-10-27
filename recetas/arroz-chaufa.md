@@ -1,5 +1,7 @@
 # Arroz chaufa
 
+http://comidasperuanas.net/wp-content/uploads/2016/11/Arroz-Chaufa.jpg
+
 El Arroz Chaufa sin duda debe de ser uno de los platos más consumidos por los
 peruanos. Este plato, de preparación rápida es parte de una de las tantas
 fusiones y probablemente el más conocido de la cocina china-peruana.

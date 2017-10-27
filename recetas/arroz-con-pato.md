@@ -1,5 +1,7 @@
 # Arroz con Pato
 
+http://comidasperuanas.net/wp-content/uploads/2015/08/Arroz-con-Pato-730x430.jpg
+
 El Arroz con Pato es un plato típico del norte del Perú y tiene un sabor
 delicioso gracias al culantro (cilantro) y a la Chicha de Jora. Si quieres
 conocer las recetas de otros platos hechos con aves clic aquí

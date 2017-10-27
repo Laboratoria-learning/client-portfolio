@@ -1,5 +1,7 @@
 # Causa rellena
 
+http://comidasperuanas.net/wp-content/uploads/2015/05/img_causa_limena_31268_600.jpg
+
 La Causa Rellena es un plato tradicional de la cocina peruana. Hecho a base de papa (patata), limón, ají amarillo, pollo, atún o mariscos. Fácil y rápido.
 
 * Tiempo de preparación: 20 minutos
