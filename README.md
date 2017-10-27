@@ -40,12 +40,12 @@ El reto consiste en:
 
 ### Día 1
 
-1. **Kick-off** (15min)
-2. **Planning**: crear propuesta de cómo añadir sección de recetas (20min)
-3. **Pitching**: Sustentar tu propuesta y recolectar feedback (20min)
-4. Crear **plan de acción** opcionalmente incluyendo tareas del backlog si
-   consideras que te puede alcanzar el tiempo.
-5. Iniciar **implementación**
+1. **Kick-off** (30min)
+2. Cómo incluir recetas (10min)
+3. Creación de un plan: Estimación de tiempo/tareas y decidir si incluir algo
+   del backlog (10min)
+4. **Pitching**: Sustentar tu propuesta y recolectar feedback (20min)
+5. Iniciar **implementación** y adaptar plan según sea necesario
 6. Al finalizar la sesión debes haber hecho `commit` y `push` de tu `README.md`
    así como de tu código fuente en proceso.
 
@@ -54,6 +54,7 @@ El reto consiste en:
 1. **Daily** (30min)
 2. **Implementación** (3h)
 3. **Despliegue** en GitHub Pages
+4. **Preparación para demo** (20min)
 5. **Demos** (1h)
 
 ## Flujo de trabajo
