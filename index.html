@@ -3,105 +3,148 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Freelancer</title>
-    <!--Enlazando con CSS-->
+    <link href="https://fonts.googleapis.com/css?family=Spinnaker" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
     <script src="https://use.fontawesome.com/398f85d77e.js"></script>
-    <link rel="stylesheet" href="css/main.css"
-
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon/7469profile.ico">
+    <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
-    <!--Barra de menú-->
-    <header>
-       <strong>
-          <a href="#">STAR BOOTSTRAP</a>
-          <a href="#">PORTFOLIO</a>
-          <a href="#">ABOUT</a>
-          <a href="#">CONTACT</a>
-      </strong>
-    </header>
-   <!--Primera Sección-->
-   <!--"STAR BOOTSTRAP"-->
-   <section class="first-section">
-     <div class="conteiner-one">
-        <h1>STAR BOORTSTRAP</h1>
-        <hr></hr>
-        <span class="fa fa-star" aria-hidden="true"></span>
-        <hr></hr>
-         <p>Web Developer-Graphic Artist-User Experience Designer</p>
+   <header>
+      <strong class="start-bootstrap">START BOOTSTRAP</strong>
+       <div class="main-menu">
+       <a class="others-a" href="#contact">CONTACT</a>
+       <a class="others-a" href="#about">ABOUT</a>
+       <a class="others-a" href="#portafolio">PORTFOLIO</a>
      </div>
-   </section>
+   </header>
 
-   <!--Segunda sección-->
-   <!--PORTFOLIO-->
-   <section class="second-section">
-     <div class="conteiner-two">
-         <h2>PORTFOLIO</h2>
+   <section id="intro">
+     <div>
+       <figure class="img-intro"><img src="assets/images/profile.png"</figure>
+       <h1>STAR BOOTSTRAP</h1>
+       <hr clas="first-hr"></hr>
+       <span class="fa fa-star" aria-hidden="true"></span>
+       <hr clas="first-hr"></hr>
+       <p class="text-intro">Web Developer - Graphic Artist - User Experience Designer</p>
+
+     </div>
+
+     <!--Segunda sección-->
+     <!--PORTFOLIO-->
+     <section class="second-section">
+       <div class="conteiner-two">
+           <h2>PORTFOLIO</h2>
+           <hr></hr>
+           <span class="fa fa-star" aria-hidden="true"></span>
+           <hr></hr>
+       </div>
+
+         <ul>
+
+           <li><a href="#"><img class="proyect" src="assets/images/portfolio/cabin.png" alt="proyec-cabin"></a></li>
+
+           <li><a href="https://alexandracch.github.io/we-recipes-client/" target="_blank"><img class="proyect" src="assets/images/portfolio/cake.png" alt="proyect-cake"></a></li>
+
+           <li><a href="#"><img class="proyect" src="assets/images/portfolio/circus.png" alt="proyect-circus"></a></li>
+
+           <li><a href="#"><img class="proyect" src="assets/images/portfolio/game.png" alt="proyect-game"></a></li>
+
+           <li><a href="#"><img class="proyect" src="assets/images/portfolio/safe.png" alt="proyect-safe"></a></li>
+
+           <li><a href="#"><img class="proyect" src="assets/images/portfolio/submarine.png" alt="proyect-submarine"></a></li>
+         </ul>
+     </section>
+
+     <!--Tercera sección-->
+     <!--ABOUT-->
+     <section class="third-section">
+       <div class="conteiner-three">
+
+         <h2 class="about">ABOUT</h2>
          <hr></hr>
          <span class="fa fa-star" aria-hidden="true"></span>
          <hr></hr>
+          <div class="text-about">
+             <div clas="text"><p clas="text-about">Freelancer is a free bootstrap theme created by Star Bootstrap. The download includes the complete source files including HTML, CSS and JavaScript as well as optinal LESS stylesheets for easy customization.</p>
+             </div>
+             <div class="text"><p clas="text-about">Freelancer is a free bootstrap theme created by Star Bootstrap. The download includes the complete source files including HTML, CSS and JavaScript as well as optinal LESS stylesheets for easy customization.</p>
+             </div>
+           </div>
+           <button><i class="fa fa-download" aria-hidden="true">Downland Theme</i></button>
+      </div>
+     </section>
+
+     <!--Cuarta sección-->
+     <!--CONTACT ME-->
+     <section class="fourth-section">
+       <div class="conteiner-three">
+           <h2 class="contact-me">CONTACT ME</h2>
+           <hr></hr>
+           <span class="fa fa-star" aria-hidden="true"></span>
+           <hr></hr>
+
+           <form action="">
+             <input class="contact-me" type="text" placeholder="Name">
+             <input class="contact-me" type="text" placeholder="Email Addres">
+             <input class="contact-me" type="text" placeholder="Phone Number">
+             <input class="contact-me" type="text" placeholder="Message">
+           </form>
+           <button class="send">Send</button>
+       </div>
+     </section>
+     <!--Insertando pie de página-->
+     <footer>
+      <div class="conteiner-footer">
+       <div class="parts"><h3><strong>LOCATION</strong></h3>
+             <p><a href="https://www.google.com.pe/maps/place/Laboratoria/@-12.119196,-77.0370501,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83caefb65cb:0xd4d1cc965ed50769!8m2!3d-12.119196!4d-77.0348614" target="_blank">3481 Meurose Place</a></p>
+             <p><a href="https://www.google.com.pe/maps/place/Av.+Alfredo+Benavides+1180,+Cercado+de+Lima+15047/@-12.1260837,-77.0228707,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c8033db388c3:0x73793f367683122!8m2!3d-12.1260837!4d-77.020682" target="_blank">Beverly Hills, CA 90210</a></p>
+       </div>
+       <div class="parts">
+       <h3><strong>AROUND THE WEB</strong></h3>
+         <div class="conteiner-networks"
+
+               <a class="networks-icons" href="#">
+               <span class="fa fa-facebook" aria-hidden="true"></span></a>
+
+
+
+               <a class="networks-icons" href="#">
+               <span class="fa fa-google-plus" aria-hidden="true"></span>
+
+
+
+               <a class="networks-icons" href="#">
+               <span class="fa fa-twitter" aria-hidden="true"></span>
+
+
+
+               <a class="networks-icons" href="#">
+              <span class="fa fa-linkedin" aria-hidden="true"></span>
+             </div>
+
+
+              <a class="networks-icons" href="#">
+              <span class="fa fa-dribbble" aria-hidden="true"></span>
+              </a>
+
+           </div>
+       <div class="parts">
+
+       <h3><strong>ABOUT FREELANCER</strong></h3>
+
+       <p>Freelance is a free to use, open source</p> <p>Bootstrap theme created by <a href="#" target="_blank" class="start"> Start</a></p> <a href="#" target="_blank" class="start">Bootstrap</a>.</p>
+
+       </div>
     </div>
-    <div class="proyects">
-       <ul>
+       <div class="copyright">
+         <p>Copyright © Your Website 2017</p>
+       </div>
 
-         <li><a><img class="proyect" src="assets/images/portfolio/cabin.png" alt="proyec-cabin"></a></li>
+    </footer>
 
-         <li><a><img class="proyect" src="assets/images/portfolio/cake.png" alt="proyect-cake"></a></li>
-
-         <li><a><img class="proyect" src="assets/images/portfolio/circus.png" alt="proyect-circus"></a></li>
-
-         <li><a><img class="proyect" src="assets/images/portfolio/game.png" alt="proyect-game"></a></li>
-
-         <li><a><img class="proyect" src="assets/images/portfolio/safe.png" alt="proyect-safe"></a></li>
-
-         <li><a><img class="proyect" src="assets/images/portfolio/submarine.png" alt="proyect-submarine"></a></li>
-       </ul>
-     </div>
-   </section>
-   <!--Tercera sección-->
-   <!--ABOUT-->
-   <section class="third-section">
-     <div class="conteiner-three">
-         <h2>ABOUT</h2>
-         <hr></hr>
-         <span class="fa fa-star" aria-hidden="true"></span>
-         <hr></hr>
-         <p clas="text-about">Freelancer is a free bootstrap theme created by Star Bootstrap. The download includes the complete source files including HTML, CSS and JavaScript as well as optinal LESS stylesheets for easy customization.</p>
-         <p clas="text-about">Whether you're a student looking to showcase your work, a professional looking to attrack clients, or a graphic artist looking to shre your projects, this templae is the perfect strating point!</p>
-         <button><i class="fa fa-download" aria-hidden="true">Downland Theme</i></button>
-   </section>
-
-   <!--Cuarta sección-->
-   <!--CONTACT ME-->
-   <section class="third-section">
-     <div class="conteiner-three">
-         <h2>CONTACT ME</h2>
-         <hr></hr>
-         <span class="fa fa-star" aria-hidden="true"></span>
-         <hr></hr>
-
-         <form action="">
-           <input class="contact-me" type="text" placeholder="Name">
-           <input class="contact-me" type="text" placeholder="Email Addres">
-           <input class="contact-me" type="text" placeholder="Phone Number">
-           <input class="contact-me" type="text" placeholder="Message">
-         </form>
-         <button>Send</button>
-     </div>
-   </section>
-   <!--Insertando pie de página-->
-   <footer>
-
-     <h3>LOCATION</h3>
-     <p>3481 Meurose Place</p>
-     <p>Beverly Hills, CA 90210</p>
-
-     <h3>AROUND THE WEB</h3>
-
-     <h3>ABOUT FREELANCER</h3>
-
-   </footer>
-
-
-
-  </body>
-</html>
+    </body>
+  </html>

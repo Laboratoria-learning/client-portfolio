@@ -2,20 +2,301 @@
  * Estilos de tu proyecto
  */
 
- header {
- background-color: rgb(44,62,80);
- position:fixed;
- top:0;
- right: 0;
- left: 0;
- height: 120px;
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizzing:border-box;
+  box-sizing: border-box;
+  font-family: 'Spinnaker', sans-serif;
 }
 
+*:before, *after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizzing:border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+
+}
+
+img {
+  vertical-align: middle;
+  align: center;
+ }
+
 a {
-  text-decoration: none;
+ text-decoration: none;
+ font-size: 18px;
+ color: #fff;
+}
+
+a.principal-a {
+  font-size: 23px;
+}
+
+.principal-a {
+    margin-top: 50px;
+}
+.others-a{
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: -20px;
+}
+strong {
+  display: inline-block;
+  margin-top: 15px;
+}
+a.others-a:hover {
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 5px;
+  background: rgb(24,188,156);
+}
+
+.start-bootstrap {
+  color: #fff;
+  font-size:25px;
+}
+
+header {
+  /*outline: 1px solid blue;*/
+  position:fixed;
+  background-color: rgb(44,62,80);
+  top: 0;
+  width: 100%;
+  height: 85px;
+  padding: 15px 160px 15px 140px;
+  z-index: 1000;
+}
+
+
+/*Intro*/
+#intro {
+  background: rgb(24,188,156);
+  height: 703px;;
+  margin-top: 85px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  margin-bottom: 5px;
+  color: #fff;
 }
 
 hr {
+  height: 8px;
+  border: 0;
+  width: 12%;
   display: inline-block;
-  width: 25%;
+  background: #fff;
+}
+
+.first-hr {
+  background: #fff;
+}
+
+.fa-star {
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+}
+
+.text-intro {
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Muli', sans-serif;
+  padding-bottom: 110px;
+}
+
+.img-intro {
+  padding-top: 92px;
+}
+
+/*Segunda sección*/
+
+.second-section {
+  background-color: #fff;
+  height: 964px;
+  height: 1020px;
+}
+
+h2 {
+  padding-top: 112px;
+  color: #000;
+  font-size: 50px;
+}
+
+
+ul {
+  list-style: none;
+}
+
+img.proyect {
+  width: 350px;
+  height: 253px;
+  float: left;
+  display: inline-block;
+  margin-left: 60px;
+  margin-bottom: 60px;
+}
+
+/*Tercera seccion*/
+.third-section {
+  align-items: center;
+  text-align: center;
+  background: rgb(24,188,156);
+}
+
+
+.conteiner-three{
+  margin-top: 50px;
+  display: inline-block;
+  padding-top: 0;
+  color: #fff;
+}
+.conteiner-three h2 .about{
+  padding-top: 0px;
+  color: #fff;
+}
+
+.about {
+  color: #fff;
+}
+
+.text {
+  float: left;
+  display: inline-block;
+}
+
+button {
+  margin-top: 35px;
+  border-color: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #fff;
+  background: rgb(24,188,156);
+  font-family: sans-serif;
+  font-size: 16px;
+  margin-bottom: 96px;
+  border: solid;
+}
+
+
+/**/
+
+/*Contact me*/
+
+.fourth-section {
+  text-align: center;
+  background: #fff;
+}
+
+.fourth-section .conteiner-three h2 .contact-me {
+  color: rgb(33,37,41);
+}
+
+input {
+  font-size: 25px;
+  width: 600px;
+  display: block;
+  height: 60px;
+  border-bottom: 3px solid #eee;
+  border-top: none;
+  border-left: none;
+  margin-bottom: 30px;
+}
+
+.conteiner-three button.send {
+  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+  border-radius: .3rem;
+  font-weight: 700;
+  border-color: #18bc9c;
+  left: 234px;
+  font-size: 1.25rem;
+  white-space: nowrap;
+  float: left;
+}
+
+ /*footer*/
+
+ footer {
+   background: #345;
+   height: 343px;
+   cursor:auto;
+ }
+
+ h3 {
+   color: #fff;
+   font-weight: 1000;
+ }
+
+.network{
+  color: #fff;
+}
+
+
+.fa-google-plus:before, .fa-facebook:before,.fa-twitter:before, .fa-linkedin:before, .fa-dribbble:before {
+  float: left;
+  display:inline-block;
+  color: #fff;
+  border-radius: 50%;
+}
+
+a.networks-icons:hover {
+  background: none;
+  font-size: 21px;
+}
+
+.parts {
+
+  height:  317px;
+  display: inline-block;
+  color:#fff;
+  margin-left: 50px;
+  border-bottom: 0;
+}
+
+div .parts {
+  font-size: 20px;
+  width: 280px;
+}
+
+.conteiner-footer {
+  width: 100%;
+  height: 350px;
+  background:  #345;
+}
+
+.parts a.start{
+  color: rgb(46,204,113);
+}
+
+.copyright {
+  display:block;
+  color: #fff;
+}
+
+.conteiner-networks {
+  display: inline-block;
+
+}
+
+/*Footer copyright*/
+
+.copyright {
+  background: #345;
+  height: 100px;
+  bottom: 0;
+}
+.copyright p {
+  margin: 0;
+  padding: 25px;
 }
